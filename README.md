@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Git**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Vedant-rai?tab=repositories)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/Vedant-rai?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
