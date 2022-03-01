@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Billing System](https://github.com/Vedant-rai/Billing-System)
 
-- 🌱 I’m currently learning **Git**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Vedant-rai?tab=repositories)
 
